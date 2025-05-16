@@ -9,4 +9,4 @@ I'm a Flutter developer with 2+ years of experience. I build beautiful and effic
 
 ## 📫 Let's Connect
 - Email: salhimohamedamin123@gmail.com
-- LinkedIn: [your-link](https://www.linkedin.com/in/mohamed-amin-salhi-450404219/)
+- LinkedIn: [amine](https://www.linkedin.com/in/mohamed-amin-salhi-450404219/)
